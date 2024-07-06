@@ -21,7 +21,7 @@ function Header(){
                     <div className="splinks">
                         <div className="l1" style={{paddingRight:"30px",paddingLeft:"30px"}}>
                             
-                            <a href="https://github.com/MuthuRathnashri/Summer-Project" target="_blank">
+                            <a href="https://github.com/Nithyasri-Indhumathi/Summer_Project" target="_blank">
                                 <FontAwesomeIcon icon={faGithub} style={{color: "black", width: '70px', height: '70px'}} />
                             </a>
                         </div>
