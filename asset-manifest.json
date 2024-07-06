@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/weblink/static/css/main.02e34b94.css",
+    "main.js": "/github.io/weblink/static/js/main.e5d6fea2.js",
+    "static/js/787.38f16daf.chunk.js": "/github.io/weblink/static/js/787.38f16daf.chunk.js",
+    "static/media/farmvideo.mp4": "/github.io/weblink/static/media/farmvideo.31c3cfcc34eaf350c463.mp4",
+    "static/media/contact.jpg": "/github.io/weblink/static/media/contact.1c47de6664e69d72f7e2.jpg",
+    "static/media/bg.jpg": "/github.io/weblink/static/media/bg.efb036f28698ac113dd5.jpg",
+    "static/media/front.jpg": "/github.io/weblink/static/media/front.c5a90480ad0cfb1e89a8.jpg",
+    "static/media/area1.jpg": "/github.io/weblink/static/media/area1.2b0a67c5f191c3648b67.jpg",
+    "static/media/wellpath.jpg": "/github.io/weblink/static/media/wellpath.2022dc3264e1eee3b7e4.jpg",
+    "static/media/inp.png": "/github.io/weblink/static/media/inp.806a54f345641192cfcd.png",
+    "static/media/website.png": "/github.io/weblink/static/media/website.4905c5e4c677959a5712.png",
+    "static/media/div.jpg": "/github.io/weblink/static/media/div.529cecce4943a868c7d2.jpg",
+    "static/media/google.jpg": "/github.io/weblink/static/media/google.202602c6b6de7400607c.jpg",
+    "static/media/osm.jpg": "/github.io/weblink/static/media/osm.a89a05cb16b340914203.jpg",
+    "index.html": "/github.io/weblink/index.html",
+    "main.02e34b94.css.map": "/github.io/weblink/static/css/main.02e34b94.css.map",
+    "main.e5d6fea2.js.map": "/github.io/weblink/static/js/main.e5d6fea2.js.map",
+    "787.38f16daf.chunk.js.map": "/github.io/weblink/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e34b94.css",
+    "static/js/main.e5d6fea2.js"
+  ]
+}
