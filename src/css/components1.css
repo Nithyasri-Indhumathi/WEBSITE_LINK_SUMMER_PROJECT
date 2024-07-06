@@ -1,0 +1,118 @@
+.spfrontimage{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+
+}
+
+.spabs{
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    background-color: white;
+    padding-bottom: 30px;
+}
+.spvideo{
+    margin: 50px;
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: white;
+
+}
+.spabs h2, .spvideo h2, .spout h2{
+    text-align: center;
+}
+.spout{
+    padding: 30px;
+    justify-content: center;
+    background-color: white;
+}
+.sp1{
+    margin-top: 50px;
+}
+.spoutimg1 img, .spou img{
+    height: 300px;
+    margin-left: 150px;
+    width:500px;
+    height:380px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.spoutimg2 img{
+    width:700px;
+    height:900px;
+    display: block;
+
+}
+.spoutimg3 img{
+    width:800px;
+    height:450px;
+    display: block;
+
+}
+
+p,h3{
+    padding-left:120px;
+    padding-right:120px;
+    text-align: justify;
+}
+
+.b1,.b2,.b3{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.reference-paper-buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    
+  justify-content: center;
+  margin-bottom: 30px;
+    
+  }
+  
+  .reference-button {
+    display: inline-block;
+    text-decoration: none;
+    background-color:black; /* Button background color */
+    color: #ffffff; /* Button text color */
+    padding: 15px 30px; /* Increase padding to increase button size */
+    border-radius: 40px; /* Rounded corners */
+    font-size: 20px; /* Increase font size */
+    line-height: 10px; /* Increase line height for vertically centered text */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    
+  }
+  
+  .reference-button:hover {
+    background-color: rgb(94, 87, 87); /* Darker background color on hover */
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
+  
+  /* Styling for the PDF icon */
+  .icon i.fas.fa-file-pdf {
+    color: #ffffff; /* PDF icon color */
+    font-size: 20px; /* PDF icon size */
+  }
+
+  .comp{
+    display: flex;
+    text-align: center;;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 20px;    
+    justify-content: center;
+  }
+
+  .con1,.con2{
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}

@@ -1,0 +1,38 @@
+.sptopic{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.splinks{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 600px;
+}
+.l1,.l2{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: center;
+    margin-right: 0px;
+}
+.spheader{
+    content: " ";
+    background: url("../images/bg.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 800px;
+    margin-top: auto;
+    padding-top: auto;
+  
+}
+h7{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-top: 60px;
+}
+h8{
+    padding-bottom: 20px;
+    font-weight: bold;
+}
